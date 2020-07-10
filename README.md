@@ -45,7 +45,7 @@ Some examples to get you started,  can be found under [this](https://github.com/
   |[4](/)|Serial|[arduino](https://www.arduino.cc/reference/en/language/functions/communication/serial/)| Serial Comunication|
   |[5](/)|BLE Part|[Ebay](https://www.ebay.com/itm/DA14580-HJ-580X-Bluetooth-UART-Wireless-Data-Transceiver-Module-for-Arduino/272512707712?hash=item3f7305ec80:g:Iv4AAOSw5cNYb~I6)|Where I bought it|
   |[6](/[Part%20&%20Info]%20-%20Files/grabCAD/hj-580xp-bluetooth-module-1.snapshot.7.zip)|3D Model|[grabcad](https://grabcad.com/library/hj-580xp-bluetooth-module-1)|3D model of BLE|
-  |[7](/)|Discussion|Forum|Arduino Forum|
+  |[7](/)|Discussion|[Forum](https://forum.arduino.cc/index.php?topic=694679.0)|Arduino Forum|
 
 <sup>**L :**  *```All files needed are "localy" stored in this repository or forked too, in case of any URL or repository expiration```*<sup>
 
